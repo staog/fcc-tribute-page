@@ -2,7 +2,7 @@
 
 Responsive Web Design Projects | freeCodeCamp - Build a Tribute Page.
 
-I've decided to build a page dedicated to Nikola Tesla - Greatest scientist that ever lived. Thank you for everything you did!!!
+I've decided to build a page dedicated to Nikola Tesla - Greatest scientist that ever lived. Thank you for everything you did!
 
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNqgVx.
 
@@ -28,7 +28,7 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 
 * User Story #9: The img element should be centered within its parent element.
 
-You can build your project by forking this CodePen pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js.
+You can build your project by forking this CodePen pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
 
 =============================================================
 
